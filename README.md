@@ -184,12 +184,7 @@ The interactive dashboard provides a consolidated business overview including:
 ---
 
 ## 📸 Dashboard Preview
-
-> Add the dashboard image here.
-
-```markdown
 ![Dashboard](dashboard/Vendor_Performance_Dashboard.png)
-```
 
 ---
 
